@@ -1,4 +1,5 @@
-summarizing the Exploratory Data Analysis (EDA) for Real Estate Pricing project. It includes an overview, dataset description, EDA steps, technologies used, and instructions for running the code.
+EDA Project 
+Summarizing the Exploratory Data Analysis (EDA) for Real Estate Pricing project. It includes an overview, dataset description, EDA steps, technologies used, and instructions for running the code.
 
 Exploratory Data Analysis (EDA) for Real Estate Pricing
 Unveiling the Dynamics of House Valuation in a Dynamic Market
